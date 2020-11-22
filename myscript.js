@@ -25,7 +25,7 @@ function frequenceElement(arr)
 {
   return arr.reduce(
     (result, item)=>{
-      if (isNaN(result[item])
+      if (isNaN(result[item]))
         result[item]=1;
        else
         result[item]+=1;
