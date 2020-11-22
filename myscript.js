@@ -1,3 +1,6 @@
+
+// TEST GIT HUB
+console.log('test github in vsc');
 //flating array
 function flatten(arr) {
   // viết code ở đây.
