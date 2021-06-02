@@ -31,3 +31,14 @@
   }
    
    ```
+- JSX: use html in javascript (attribute change a little bit: class => className, onclick => onClick
+- SinglePage Application
+- Fetch data:
+```
+    fetch('http://api.datalink')
+        .then(response => response.json())
+        .then(users => this.setState({data: users})
+```
+- Component: should use **key** for each component
+- Think a big component and then break it into small component
+- 
