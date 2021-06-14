@@ -42,4 +42,11 @@
 - Component: should use **key** for each component
 - Think a big component and then break it into small component
 - State and Props: React has one way data flow
-- 
+
+
+
+*Null, undefined, NaN
+| |Null|undifined|NaN
+--------------------
+|Giá trị|Null|Null|NaN
+|Kiểu|Null|undefined|Number
